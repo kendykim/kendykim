@@ -6,7 +6,7 @@
   <h1>Hi, I'm KendyKim 👋</h1>
   <p><strong>Software Developer</strong> · Building practical applications with a versatile backend stack</p>
   <p>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
+    <a href="https://github.com/kendykim?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
   </p>
 </div>
 
