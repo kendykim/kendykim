@@ -1,7 +1,6 @@
 <!-- GitHub profile setup: create a public repository whose name exactly matches your GitHub username. Put this README.md and profile-banner.svg in the repository root. Replace YOUR_NAME and YOUR_USERNAME with your details. -->
 
 <div align="center">
-  <img src="profile-banner.svg" alt="Developer profile banner: C#, .NET, Python, Node.js and Java Spring Boot" width="100%" />
 
   <h1>Hi, I'm KendyKim 👋</h1>
   <p><strong>Software Developer</strong> · Building practical applications with a versatile backend stack</p>
