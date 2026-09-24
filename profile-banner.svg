@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Developer profile banner</title>
+  <desc id="desc">Dark modern developer banner featuring C sharp, Python, Node.js, and Java Spring Boot</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1428"/><stop offset=".58" stop-color="#11274b"/><stop offset="1" stop-color="#073c43"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="0"><stop stop-color="#61dafb"/><stop offset="1" stop-color="#63e6be"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#43d8c7" stop-opacity=".3"/><stop offset="1" stop-color="#43d8c7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ac5d5" stroke-opacity=".075"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="13" flood-color="#00101a" flood-opacity=".45"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1046" cy="108" r="285" fill="url(#glow)"/>
+  <path d="M51 53h48" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="52" y="116" fill="#8ddbcc" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="48" y="199" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" letter-spacing="-2">Build. Learn. Ship.</text>
+  <text x="52" y="255" fill="#bfd0e5" font-family="Arial,Helvetica,sans-serif" font-size="22">From backend APIs to useful web experiences.</text>
+  <g filter="url(#shadow)" font-family="Arial,Helvetica,sans-serif" font-weight="800" text-anchor="middle">
+    <g transform="translate(800 91) rotate(-8)"><rect width="132" height="112" rx="24" fill="#1a315a" stroke="#7286f9" stroke-opacity=".55"/><text x="66" y="70" font-size="42" fill="#b9adff">C#</text></g>
+    <g transform="translate(963 69) rotate(8)"><rect width="132" height="112" rx="24" fill="#1b3c52" stroke="#73c6f2" stroke-opacity=".5"/><text x="66" y="70" font-size="40" fill="#ffdc74">Py</text></g>
+    <g transform="translate(813 222) rotate(6)"><rect width="132" height="104" rx="24" fill="#1b3e3f" stroke="#74d49d" stroke-opacity=".5"/><text x="66" y="66" font-size="36" fill="#9be6b3">JS</text></g>
+    <g transform="translate(978 207) rotate(-7)"><rect width="132" height="104" rx="24" fill="#213e48" stroke="#91dbac" stroke-opacity=".5"/><text x="66" y="67" font-size="37" fill="#ade5ba">☕</text></g>
+  </g>
+  <path d="M50 300h620" stroke="#6ee9ce" stroke-opacity=".4"/>
+  <text x="52" y="331" fill="#a5c7d4" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">C#  /  .NET  /  PYTHON  /  NODE.JS  /  JAVA &amp; SPRING BOOT</text>
+</svg>
