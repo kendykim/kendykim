@@ -25,42 +25,30 @@ Tech stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="58" height="58" />
 </div>
 
-<br />
+Core stack
 
-Language
+Technology
 
-Framework / runtime
+Focus
 
-What I build
+C# · .NET
 
-C#
-
-.NET
-
-Backend services and applications
+APIs and backend applications
 
 Python
 
-Python ecosystem
+Automation and data processing
 
-Scripts, automation and data workflows
+JavaScript · Node.js
 
-JavaScript
+Server-side applications
 
-Node.js
+Java · Spring Boot
 
-APIs and server-side applications
-
-Java
-
-Spring Boot
-
-Web services and enterprise applications
+Web services and enterprise systems
 
 Let's connect
 
-GitHub: @YOUR_USERNAME
-
-Open to sharing ideas and collaborating on useful projects.
+Interested in collaborating? Explore my work on GitHub →.
 
 <!-- Optional: add real project links and your verified email or LinkedIn URL here. -->
